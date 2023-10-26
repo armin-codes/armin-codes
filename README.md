@@ -1,6 +1,7 @@
 # 🤠 Howdy! I'm Armin
-- 🐍 I’m currently learning to code softwares in python
-- 📍 How to reach me? I live in skyrim you can't reach me!, but im in twitty! https://twitter.com/armin_codes
+
+I'm a beginner in python programming language, I want to be a software developer/engineer and get a CS degree.
+I have one year expirience of python and a little bit of 3D Design(in Blender)
 
 <!---
 awmin89/awmin89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
