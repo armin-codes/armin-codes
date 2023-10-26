@@ -7,4 +7,6 @@ All of my coding project are built from ideation, planning and designing all the
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jmkvcunwym3wtznkfd5dnlbpxq&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
