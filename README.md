@@ -6,4 +6,4 @@ All of my coding project are built from ideation, planning and designing all the
 
 ### Spotify Playing 🎧
 
-[<img src="https://<https://vercel.com/armin-codes/armin-codes>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<31jmkvcunwym3wtznkfd5dnlbpxq>)
+[<img src="https://https://vercel.com/armin-codes/armin-codes/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31jmkvcunwym3wtznkfd5dnlbpxq)
