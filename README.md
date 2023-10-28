@@ -1,4 +1,4 @@
-### 🤠 Howdy! I'm Armin
+### 🤠 Howdy Folks! I'm Armin
 
 I'm a beginner in python programming language, I want to be a software developer/engineer and get a CS degree.
 I have one year expirience of python and a little bit of 3D Design(in Blender)
